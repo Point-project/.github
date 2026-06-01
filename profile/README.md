@@ -7,8 +7,6 @@
 
 We build window managers. Lean ones. The kind that run on hardware other people threw away, do more than the alternatives, and use less RAM than a browser tab.
 
-No bloat. No middleware. No excuses.
-
 ---
 
 ## The Projects
@@ -43,7 +41,7 @@ The hardware target isn't aspirational it's a hard constraint. If it doesn't run
 
 ## Who We Are
 
-**N3ZT POSSIBLE G3N** - Point:project founder, the One Maniac™
+**N3ZT POSSIBLE G3N** - Point:project founder, kanaka
 We are not a company. We are not a foundation. We are people who got frustrated with the state of desktop software and decided to do something about it, one malloc at a time.
 
 ---
@@ -89,10 +87,8 @@ Bug reports are more useful than silence. Coffee is more useful than either.
 | | |
 |---|---|
 | Point:Blank repo | [Point:Project/Point:Blank](https://github.com/Point-project/PointBlank) |
-| License | MIT (both projects) |
+| License | MIT |
 | Tested on | Lenovo 500e 2nd Gen, Arch Linux |
 | Minimum viable hardware | Anything with a CPU and enough RAM to be embarrassed about using more |
 
 ---
-
-_Point:project - the limit ends. the void doesn't._
